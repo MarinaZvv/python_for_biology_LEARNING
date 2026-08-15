@@ -10,9 +10,9 @@
 
 | Задача | Название              | Статус     | Файл              |
 |--------|-----------------------|------------|-------------------|
-| DNA    | Counting DNA Nucleotides | Решено | - |
-| RNA    | Transcribing DNA into RNA | Решено | - |
-| REVC   | Complementing a Strand of DNA | Решено | - |
+| DNA    | Counting DNA Nucleotides | Решено | [solution_count_DNA.ipynb](Counting_DNA_Nucleotides/solution_count_DNA.ipynb) |
+| RNA    | Transcribing DNA into RNA | Решено | [solution_RNA.ipynb](Transcribing_DNA_into_RNA/solution_RNA.ipynb) |
+| REVC   | Complementing a Strand of DNA | Решено | [solution_compl_DNA.ipynb](Complementing_a_Strand_of_DNA/solution_compl_DNA.ipynb) |
 
 ## Особенность Rosalind
 
